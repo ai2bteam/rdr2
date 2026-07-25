@@ -1,0 +1,12 @@
+---
+title: "Cigarette card: Fauna of the New World — Large Mouth Bass"
+source: RDR2 in-game cigarette card art (Rockstar)
+type: artwork
+tags: [cigarette-card, animals, fauna-of-the-new-world, largemouth-bass, fish, fishing, jolly-jacks-cigarettes]
+resolution: 1024x628
+license: Rockstar promo / fair use
+added: 2026-07-24
+---
+
+Карточка серии «Фауна Нового Света»: большеротый окунь с широко раскрытой пастью
+среди подводных стеблей камыша.

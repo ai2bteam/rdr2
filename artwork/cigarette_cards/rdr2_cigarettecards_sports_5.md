@@ -1,0 +1,12 @@
+---
+title: "Cigarette card: Sportsmen — R.S. Harradon (cyclist)"
+source: RDR2 in-game cigarette card art (Rockstar)
+type: artwork
+tags: [cigarette-card, sports, sportsmen, rs-harradon, cycling, bicycle, caricature, red-rocket]
+resolution: 628x1024
+license: Rockstar promo / fair use
+added: 2026-07-24
+---
+
+Карточка серии «Sportsmen» (Red Rocket Cigarette Tobacco): карикатура на
+велогонщика Р.С. Харрадона в жёлто-фиолетовой майке на треке.

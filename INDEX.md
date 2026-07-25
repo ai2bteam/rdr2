@@ -4,17 +4,27 @@
 
 ```
 rdr2/
-├── characters/    (пусто)
-├── locations/     (пусто)
-├── transport/     (пусто)
-├── animals/       (пусто)
-├── weapons/       (пусто)
-├── logos/         (пусто)
-├── screenshots/   (пусто)
-├── artwork/       (пусто)
-├── maps/          (пусто)
-├── ui/            (пусто)
-└── misc/          (пусто)
+├── characters/
+│   ├── bio_art/       25 официальных био-артов персонажей — см. characters/INDEX-файлы
+│   └── png_renders/   9 PNG-рендеров персонажей (прозрачный фон — для монтажа)
+├── locations/         (пусто)
+├── transport/         (пусто)
+├── animals/           (пусто)
+├── weapons/           (пусто)
+├── logos/             (пусто)
+├── screenshots/
+│   ├── story_mode/    254 официальных скриншота сюжетного режима, 1080p
+│   ├── trailers/      202 кадра из трейлеров RDR2, 1080p
+│   └── red_dead_online/ 415 официальных скриншотов Red Dead Online, 1080p
+├── artwork/
+│   ├── story/         33 официальных арта и обоев RDR2 (1600px)
+│   ├── red_dead_online/ 28 артов Red Dead Online
+│   ├── compendium/    19 артов компендиума (животные, предметы)
+│   ├── cigarette_cards/ 144 арта сигаретных карточек (внутриигровая коллекция)
+│   └── covers/        7 обложек (1920px)
+├── maps/              8 карт: полная карта мира (hi-res + 1920px) и 6 штатов
+├── ui/                (пусто)
+└── misc/              (пусто)
 ```
 
 **Справочные файлы:** [SOURCES.md](SOURCES.md) — реестр источников.
